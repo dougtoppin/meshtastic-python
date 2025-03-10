@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - master
+      - update-pyproject
   pull_request:
     branches:
       - master
